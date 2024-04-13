@@ -1,0 +1,29 @@
+source_name,total_reports,url,GlobalRank,Domain,title_sentiment
+ETF Daily News,16631,etfdailynews.com,64211,etfdailynews.com,0.019394098807956964
+The Times of India,7629,timesofindia.indiatimes.com,546,timesofindia.indiatimes.com,0.04140263134233511
+GlobeNewswire,5485,globenewswire.com,492,globenewswire.com,0.05957628210187463
+Forbes,4423,forbes.com,64,forbes.com,0.09461830763294701
+BBC News,3342,bbc.co.uk,87,bbc.co.uk,0.03523057514249166
+Globalsecurity.org,3093,globalsecurity.org,3549,globalsecurity.org,0.00546211328097846
+Business Insider,2746,businessinsider.com,115,businessinsider.com,0.04136776977540816
+Marketscreener.com,1948,marketscreener.com,3925,marketscreener.com,0.0409391360004168
+The Punch,1798,punchng.com,6570,punchng.com,0.024170759821482847
+Al Jazeera English,1642,aljazeera.com,516,aljazeera.com,0.008823266269977597
+Phys.Org,1266,phys.org,616,phys.org,0.035010279894758564
+International Business Times,1203,ibtimes.com,1115,ibtimes.com,0.01566998272578073
+The Indian Express,1193,indianexpress.com,995,indianexpress.com,0.036307817334011804
+AllAfrica - Top Africa News,1133,allafrica.com,2688,allafrica.com,0.021139956077069935
+RT,1129,rt.com,581,rt.com,-0.00017147464778111357
+NPR,980,npr.org,147,npr.org,0.03726126884736579
+Deadline,930,deadline.com,961,deadline.com,0.05812194041024686
+Digital Trends,787,digitaltrends.com,711,digitaltrends.com,0.1845075734656421
+CNA,720,channelnewsasia.com,1755,channelnewsasia.com,0.04170655161453773
+Boing Boing,708,boingboing.net,1265,boingboing.net,0.061119355377829955
+Time,605,time.com,137,time.com,0.013167185431648241
+Android Central,523,androidcentral.com,3375,androidcentral.com,0.13424856851243086
+Euronews,385,euronews.com,586,euronews.com,0.1313253921403272
+Gizmodo.com,384,gizmodo.com,403,gizmodo.com,0.03805343238936989
+ReadWrite,319,readwrite.com,2460,readwrite.com,0.07057176104981748
+CNN,275,cnn.com,78,cnn.com,0.01653642266824085
+Wired,273,wired.com,148,wired.com,0.1343685547256976
+The Verge,240,theverge.com,202,theverge.com,0.0671215879028379
