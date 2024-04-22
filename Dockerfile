@@ -7,9 +7,6 @@ WORKDIR /app
 # Add the Streamlit directory contents into the container at /app
 ADD ./ /app
 
-## Add the data directory contents into the container at /app/data
-ADD ./features /app/data
-
 # Install any needed packages specified in requirements.txt
 RUN pip install --no-cache-dir -r requirements.txt
 
